@@ -107,8 +107,8 @@ func stringToEmoji(word: String) -> Character {
 let response1 = stringToEmoji(word: "meh")
 let response2 = stringToEmoji(word: "happy")
 
-print (response1)
-print (response2)
+print(response1)
+print(response2)
 /*:
 The emoji thing went over big with the founders. They want more! People use lots of emojis, this could be big.
 
